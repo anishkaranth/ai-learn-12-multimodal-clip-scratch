@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="504pt" height="273.6pt" viewBox="0 0 504 273.6" version="1.1">
+<defs>
+<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+</defs>
+<path d="M 0 273.6 L 504 273.6 L 504 0 L 0 0 z" style="fill: #ffffff"/>
+<path d="M 48 238.1 L 493.2 238.1 L 493.2 26.2 L 48 26.2 z" style="fill: #ffffff"/>
+<path d="M 68.2 238.1 L 87 238.1 L 87 229.6 L 68.2 229.6 z" style="fill: #adb5bd"/>
+<path d="M 137.9 238.1 L 156.7 238.1 L 156.7 229.6 L 137.9 229.6 z" style="fill: #adb5bd"/>
+<path d="M 207.5 238.1 L 226.3 238.1 L 226.3 207.4 L 207.5 207.4 z" style="fill: #adb5bd"/>
+<path d="M 277.2 238.1 L 296 238.1 L 296 207.4 L 277.2 207.4 z" style="fill: #adb5bd"/>
+<path d="M 346.9 238.1 L 365.7 238.1 L 365.7 234.9 L 346.9 234.9 z" style="fill: #adb5bd"/>
+<path d="M 416.5 238.1 L 435.3 238.1 L 435.3 234.9 L 416.5 234.9 z" style="fill: #adb5bd"/>
+<path d="M 87 238.1 L 105.8 238.1 L 105.8 231.8 L 87 231.8 z" style="fill: #8ecae6"/>
+<path d="M 156.7 238.1 L 175.5 238.1 L 175.5 225.4 L 156.7 225.4 z" style="fill: #8ecae6"/>
+<path d="M 226.3 238.1 L 245.2 238.1 L 245.2 208.4 L 226.3 208.4 z" style="fill: #8ecae6"/>
+<path d="M 296 238.1 L 314.8 238.1 L 314.8 210.6 L 296 210.6 z" style="fill: #8ecae6"/>
+<path d="M 365.7 238.1 L 384.5 238.1 L 384.5 234.9 L 365.7 234.9 z" style="fill: #8ecae6"/>
+<path d="M 435.3 238.1 L 454.2 238.1 L 454.2 233.9 L 435.3 233.9 z" style="fill: #8ecae6"/>
+<path d="M 105.8 238.1 L 124.6 238.1 L 124.6 97.2 L 105.8 97.2 z" style="fill: #126782"/>
+<path d="M 175.5 238.1 L 194.3 238.1 L 194.3 87.6 L 175.5 87.6 z" style="fill: #126782"/>
+<path d="M 245.2 238.1 L 264 238.1 L 264 49.5 L 245.2 49.5 z" style="fill: #126782"/>
+<path d="M 314.8 238.1 L 333.6 238.1 L 333.6 37.8 L 314.8 37.8 z" style="fill: #126782"/>
+<path d="M 384.5 238.1 L 403.3 238.1 L 403.3 158.6 L 384.5 158.6 z" style="fill: #126782"/>
+<path d="M 454.2 238.1 L 473 238.1 L 473 158.6 L 454.2 158.6 z" style="fill: #126782"/>
+<defs>
+<path id="me75b3d95fb" d="M 0 0 L 0 3.5" style="stroke: #000000; stroke-width: 0.8"/>
+</defs>
+<use xlink:href="#me75b3d95fb" x="96.4" y="238.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 7px; font-family: sans-serif" transform="translate(91.8 251.1)">i2t</text>
+<text style="font-size: 7px; font-family: sans-serif" transform="translate(72.6 259.5)">R@1_concept</text>
+<use xlink:href="#me75b3d95fb" x="166.1" y="238.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 7px; font-family: sans-serif" transform="translate(161.5 251.1)">t2i</text>
+<text style="font-size: 7px; font-family: sans-serif" transform="translate(142.2 259.5)">R@1_concept</text>
+<use xlink:href="#me75b3d95fb" x="235.7" y="238.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 7px; font-family: sans-serif" transform="translate(231.2 251.1)">i2t</text>
+<text style="font-size: 7px; font-family: sans-serif" transform="translate(211.9 259.5)">R@5_concept</text>
+<use xlink:href="#me75b3d95fb" x="305.4" y="238.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 7px; font-family: sans-serif" transform="translate(300.8 251.1)">t2i</text>
+<text style="font-size: 7px; font-family: sans-serif" transform="translate(281.5 259.5)">R@5_concept</text>
+<use xlink:href="#me75b3d95fb" x="375.1" y="238.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 7px; font-family: sans-serif" transform="translate(370.5 251.1)">i2t</text>
+<text style="font-size: 7px; font-family: sans-serif" transform="translate(350.3 259.5)">R@5_instance</text>
+<use xlink:href="#me75b3d95fb" x="444.7" y="238.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 7px; font-family: sans-serif" transform="translate(440.2 251.1)">t2i</text>
+<text style="font-size: 7px; font-family: sans-serif" transform="translate(420 259.5)">R@5_instance</text>
+<defs>
+<path id="me4e006e062" d="M 0 0 L -3.5 0" style="stroke: #000000; stroke-width: 0.8"/>
+</defs>
+<use xlink:href="#me4e006e062" x="48" y="238.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="41" y="241.9">0.0</text>
+<use xlink:href="#me4e006e062" x="48" y="195.7" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="41" y="199.5">0.2</text>
+<use xlink:href="#me4e006e062" x="48" y="153.3" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="41" y="157.1">0.4</text>
+<use xlink:href="#me4e006e062" x="48" y="110.9" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="41" y="114.7">0.6</text>
+<use xlink:href="#me4e006e062" x="48" y="68.6" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="41" y="72.3">0.8</text>
+<use xlink:href="#me4e006e062" x="48" y="26.2" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="41" y="30">1.0</text>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="18.7" y="132.1" transform="rotate(-90 18.7 132.1)">recall</text>
+<path d="M 48 238.1 L 48 26.2" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<path d="M 493.2 238.1 L 493.2 26.2" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<path d="M 48 238.1 L 493.2 238.1" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<path d="M 48 26.2 L 493.2 26.2" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<text style="font-size: 12px; font-family: sans-serif; text-anchor: middle" x="270.6" y="20.2">Test retrieval (N=200)</text>
+<path d="M 413.6 68.6 L 487.6 68.6 Q 489.2 68.6 489.2 67 L 489.2 31.8 Q 489.2 30.2 487.6 30.2 L 413.6 30.2 Q 412 30.2 412 31.8 L 412 67 Q 412 68.6 413.6 68.6 z" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+<path d="M 415.2 39.4 L 431.2 39.4 L 431.2 33.8 L 415.2 33.8 z" style="fill: #adb5bd"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: start" x="437.6" y="39.4">random</text>
+<path d="M 415.2 51.4 L 431.2 51.4 L 431.2 45.8 L 415.2 45.8 z" style="fill: #8ecae6"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: start" x="437.6" y="51.4">untrained</text>
+<path d="M 415.2 63.4 L 431.2 63.4 L 431.2 57.8 L 415.2 57.8 z" style="fill: #126782"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: start" x="437.6" y="63.4">trained CLIP</text>
+</svg>
