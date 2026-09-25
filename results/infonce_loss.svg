@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432pt" height="259.2pt" viewBox="0 0 432 259.2" version="1.1">
+<defs>
+<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+</defs>
+<path d="M 0 259.2 L 432 259.2 L 432 0 L 0 0 z" style="fill: #ffffff"/>
+<path d="M 48 217.1 L 421.2 217.1 L 421.2 26.2 L 48 26.2 z" style="fill: #ffffff"/>
+<defs>
+<path id="me75b3d95fb" d="M 0 0 L 0 3.5" style="stroke: #000000; stroke-width: 0.8"/>
+</defs>
+<use xlink:href="#me75b3d95fb" x="56.2" y="217.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="56.2" y="231.7">0</text>
+<use xlink:href="#me75b3d95fb" x="99.7" y="217.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="99.7" y="231.7">5</text>
+<use xlink:href="#me75b3d95fb" x="143.2" y="217.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="143.2" y="231.7">10</text>
+<use xlink:href="#me75b3d95fb" x="186.7" y="217.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="186.7" y="231.7">15</text>
+<use xlink:href="#me75b3d95fb" x="230.2" y="217.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="230.2" y="231.7">20</text>
+<use xlink:href="#me75b3d95fb" x="273.7" y="217.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="273.7" y="231.7">25</text>
+<use xlink:href="#me75b3d95fb" x="317.2" y="217.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="317.2" y="231.7">30</text>
+<use xlink:href="#me75b3d95fb" x="360.7" y="217.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="360.7" y="231.7">35</text>
+<use xlink:href="#me75b3d95fb" x="404.2" y="217.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="404.2" y="231.7">40</text>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="234.6" y="245.7">epoch</text>
+<defs>
+<path id="me4e006e062" d="M 0 0 L -3.5 0" style="stroke: #000000; stroke-width: 0.8"/>
+</defs>
+<use xlink:href="#me4e006e062" x="48" y="206.6" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="41" y="210.4">0.5</text>
+<use xlink:href="#me4e006e062" x="48" y="183.2" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="41" y="187">1.0</text>
+<use xlink:href="#me4e006e062" x="48" y="159.7" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="41" y="163.5">1.5</text>
+<use xlink:href="#me4e006e062" x="48" y="136.2" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="41" y="140">2.0</text>
+<use xlink:href="#me4e006e062" x="48" y="112.7" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="41" y="116.5">2.5</text>
+<use xlink:href="#me4e006e062" x="48" y="89.2" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="41" y="93">3.0</text>
+<use xlink:href="#me4e006e062" x="48" y="65.8" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="41" y="69.6">3.5</text>
+<use xlink:href="#me4e006e062" x="48" y="42.3" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="41" y="46.1">4.0</text>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="18.7" y="121.6" transform="rotate(-90 18.7 121.6)">symmetric InfoNCE loss</text>
+<path d="M 64.9 59.3 L 73.6 122.9 L 82.3 145.5 L 91 155.7 L 99.7 163.4 L 108.4 168.6 L 117.1 172.7 L 125.8 176.5 L 134.5 179 L 143.2 180.7 L 151.9 182.9 L 160.6 184.9 L 169.3 186.1 L 178 187.6 L 186.7 189.2 L 195.4 191.3 L 204.1 191.9 L 212.8 194.2 L 221.5 194.7 L 230.2 195.4 L 238.9 195.8 L 247.6 196.8 L 256.3 198.4 L 265 199 L 273.7 200 L 282.4 200.9 L 291.1 201.7 L 299.8 202.6 L 308.5 202.9 L 317.2 203.4 L 325.9 204.1 L 334.6 204.7 L 343.3 204.9 L 352 205.2 L 360.7 206.3 L 369.4 206.8 L 378.1 206.4 L 386.8 207.7 L 395.5 207.5 L 404.2 208.4" style="fill: none; stroke: #126782; stroke-width: 1.6; stroke-linecap: square"/>
+<path d="M 48 34.8 L 421.2 34.8" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #999999"/>
+<path d="M 48 217.1 L 48 26.2" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<path d="M 421.2 217.1 L 421.2 26.2" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<path d="M 48 217.1 L 421.2 217.1" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<path d="M 48 26.2 L 421.2 26.2" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<text style="font-size: 12px; font-family: sans-serif; text-anchor: middle" x="234.6" y="20.2">Contrastive training loss</text>
+<path d="M 53.6 213.1 L 160.7 213.1 Q 162.3 213.1 162.3 211.5 L 162.3 188.3 Q 162.3 186.7 160.7 186.7 L 53.6 186.7 Q 52 186.7 52 188.3 L 52 211.5 Q 52 213.1 53.6 213.1 z" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+<path d="M 55.2 193.2 L 63.2 193.2 L 71.2 193.2" style="fill: none; stroke: #126782; stroke-width: 1.6; stroke-linecap: square"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: start" x="77.6" y="196">train InfoNCE</text>
+<path d="M 55.2 205.2 L 63.2 205.2 L 71.2 205.2" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #999999"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: start" x="77.6" y="208">log(batch) = chance</text>
+</svg>

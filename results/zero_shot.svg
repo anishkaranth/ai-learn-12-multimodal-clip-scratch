@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432pt" height="259.2pt" viewBox="0 0 432 259.2" version="1.1">
+<defs>
+<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+</defs>
+<path d="M 0 259.2 L 432 259.2 L 432 0 L 0 0 z" style="fill: #ffffff"/>
+<path d="M 47.6 231.1 L 421.2 231.1 L 421.2 26.2 L 47.6 26.2 z" style="fill: #ffffff"/>
+<path d="M 64.6 231.1 L 102.4 231.1 L 102.4 179.8 L 64.6 179.8 z" style="fill: #adb5bd"/>
+<path d="M 253.3 231.1 L 291 231.1 L 291 179.8 L 253.3 179.8 z" style="fill: #adb5bd"/>
+<path d="M 102.4 231.1 L 140.1 231.1 L 140.1 115.3 L 102.4 115.3 z" style="fill: #8ecae6"/>
+<path d="M 291 231.1 L 328.8 231.1 L 328.8 67.1 L 291 67.1 z" style="fill: #8ecae6"/>
+<path d="M 140.1 231.1 L 177.8 231.1 L 177.8 94.8 L 140.1 94.8 z" style="fill: #126782"/>
+<path d="M 328.8 231.1 L 366.5 231.1 L 366.5 49.7 L 328.8 49.7 z" style="fill: #126782"/>
+<path d="M 177.8 231.1 L 215.6 231.1 L 215.6 77.4 L 177.8 77.4 z" style="fill: #e76f51"/>
+<path d="M 366.5 231.1 L 404.2 231.1 L 404.2 43.6 L 366.5 43.6 z" style="fill: #e76f51"/>
+<defs>
+<path id="me75b3d95fb" d="M 0 0 L 0 3.5" style="stroke: #000000; stroke-width: 0.8"/>
+</defs>
+<use xlink:href="#me75b3d95fb" x="140.1" y="231.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="140.1" y="245.7">zero-shot shape (4-way)</text>
+<use xlink:href="#me75b3d95fb" x="328.8" y="231.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="328.8" y="245.7">zero-shot color (4-way)</text>
+<defs>
+<path id="me4e006e062" d="M 0 0 L -3.5 0" style="stroke: #000000; stroke-width: 0.8"/>
+</defs>
+<use xlink:href="#me4e006e062" x="47.6" y="231.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="40.6" y="234.9">0.0</text>
+<use xlink:href="#me4e006e062" x="47.6" y="190.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="40.6" y="193.9">0.2</text>
+<use xlink:href="#me4e006e062" x="47.6" y="149.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="40.6" y="152.9">0.4</text>
+<use xlink:href="#me4e006e062" x="47.6" y="108.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="40.6" y="111.9">0.6</text>
+<use xlink:href="#me4e006e062" x="47.6" y="67.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="40.6" y="70.9">0.8</text>
+<use xlink:href="#me4e006e062" x="47.6" y="26.2" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="40.6" y="30">1.0</text>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="18.3" y="128.6" transform="rotate(-90 18.3 128.6)">accuracy</text>
+<path d="M 47.6 231.1 L 47.6 26.2" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<path d="M 421.2 231.1 L 421.2 26.2" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<path d="M 47.6 231.1 L 421.2 231.1" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<path d="M 47.6 26.2 L 421.2 26.2" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<text style="font-size: 12px; font-family: sans-serif; text-anchor: middle" x="234.4" y="20.2">Zero-shot classification via text prompts</text>
+<path d="M 52.5 73.8 L 156 73.8 Q 157.4 73.8 157.4 72.4 L 157.4 31.1 Q 157.4 29.7 156 29.7 L 52.5 29.7 Q 51.1 29.7 51.1 31.1 L 51.1 72.4 Q 51.1 73.8 52.5 73.8 z" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+<path d="M 53.9 37.8 L 67.9 37.8 L 67.9 32.9 L 53.9 32.9 z" style="fill: #adb5bd"/>
+<text style="font-size: 7px; font-family: sans-serif; text-anchor: start" x="73.5" y="37.8">chance</text>
+<path d="M 53.9 48.3 L 67.9 48.3 L 67.9 43.4 L 53.9 43.4 z" style="fill: #8ecae6"/>
+<text style="font-size: 7px; font-family: sans-serif; text-anchor: start" x="73.5" y="48.3">single prompt</text>
+<path d="M 53.9 58.8 L 67.9 58.8 L 67.9 53.9 L 53.9 53.9 z" style="fill: #126782"/>
+<text style="font-size: 7px; font-family: sans-serif; text-anchor: start" x="73.5" y="58.8">prompt ensemble</text>
+<path d="M 53.9 69.3 L 67.9 69.3 L 67.9 64.4 L 53.9 64.4 z" style="fill: #e76f51"/>
+<text style="font-size: 7px; font-family: sans-serif; text-anchor: start" x="73.5" y="69.3">held-out combos (ens.)</text>
+</svg>
