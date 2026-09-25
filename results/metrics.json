@@ -1,0 +1,100 @@
+{
+  "project": "ai-learn-12-multimodal-clip-scratch",
+  "seed": 42,
+  "config": {
+    "image_shape": [8, 8, 3],
+    "n_train": 3000,
+    "n_test": 200,
+    "n_heldout": 200,
+    "img_hidden": 128,
+    "txt_hidden": 64,
+    "embed_dim": 32,
+    "tau": 0.1,
+    "epochs": 40,
+    "batch": 64,
+    "lr": 0.003,
+    "ks": [1, 5],
+    "held_out_combos": ["yellow triangle", "blue cross", "red circle", "green square"]
+  },
+  "data": {
+    "n_train": 3000,
+    "n_test": 200,
+    "n_heldout": 200,
+    "vocab_size": 33,
+    "n_concepts_total": 32,
+    "n_concepts_train": 24
+  },
+  "model": {
+    "trainable_params": 33088
+  },
+  "training": {
+    "loss_curve": [3.6371, 2.28281, 1.80271, 1.58557, 1.4201, 1.31087, 1.22197, 1.14215, 1.08812, 1.05223, 1.00618, 0.96183, 0.93758, 0.90502, 0.87088, 0.82562, 0.81269, 0.7656, 0.75328, 0.73869, 0.73056, 0.70925, 0.67577, 0.66141, 0.64052, 0.6229, 0.60441, 0.58681, 0.58039, 0.56906, 0.55291, 0.54131, 0.53599, 0.53127, 0.50747, 0.49593, 0.50392, 0.47754, 0.48154, 0.46227],
+    "initial_loss": 3.6371,
+    "final_loss": 0.46227,
+    "log_batch_size": 4.1589
+  },
+  "retrieval_test": {
+    "i2t_R@1_instance": 0.12,
+    "t2i_R@1_instance": 0.12,
+    "i2t_R@1_concept": 0.665,
+    "t2i_R@1_concept": 0.71,
+    "i2t_R@5_instance": 0.375,
+    "t2i_R@5_instance": 0.375,
+    "i2t_R@5_concept": 0.89,
+    "t2i_R@5_concept": 0.945
+  },
+  "retrieval_heldout": {
+    "i2t_R@1_instance": 0.02,
+    "t2i_R@1_instance": 0.03,
+    "i2t_R@1_concept": 0.825,
+    "t2i_R@1_concept": 0.825,
+    "i2t_R@5_instance": 0.13,
+    "t2i_R@5_instance": 0.135,
+    "i2t_R@5_concept": 0.94,
+    "t2i_R@5_concept": 0.995
+  },
+  "retrieval_random": {
+    "R@1_instance": 0.01,
+    "R@1_concept": 0.04,
+    "R@1_instance_expected": 0.005,
+    "R@5_instance": 0.015,
+    "R@5_concept": 0.145,
+    "R@5_instance_expected": 0.025
+  },
+  "retrieval_untrained": {
+    "i2t_R@1_instance": 0.005,
+    "t2i_R@1_instance": 0.01,
+    "i2t_R@1_concept": 0.03,
+    "t2i_R@1_concept": 0.06,
+    "i2t_R@5_instance": 0.015,
+    "t2i_R@5_instance": 0.02,
+    "i2t_R@5_concept": 0.14,
+    "t2i_R@5_concept": 0.13
+  },
+  "zero_shot_test": {
+    "shape_acc_single_prompt": 0.565,
+    "shape_acc_prompt_ensemble": 0.665,
+    "shape_chance": 0.25,
+    "color_acc_single_prompt": 0.8,
+    "color_acc_prompt_ensemble": 0.885,
+    "color_chance": 0.25
+  },
+  "zero_shot_heldout": {
+    "shape_acc_single_prompt": 0.6,
+    "shape_acc_prompt_ensemble": 0.75,
+    "shape_chance": 0.25,
+    "color_acc_single_prompt": 0.895,
+    "color_acc_prompt_ensemble": 0.915,
+    "color_chance": 0.25
+  },
+  "zero_shot_untrained": {
+    "shape_acc_single_prompt": 0.26,
+    "shape_acc_prompt_ensemble": 0.275,
+    "shape_chance": 0.25,
+    "color_acc_single_prompt": 0.155,
+    "color_acc_prompt_ensemble": 0.145,
+    "color_chance": 0.25
+  },
+  "runtime_sec": 1.305,
+  "plots": ["infonce_loss.svg", "retrieval_recall.svg", "zero_shot.svg"]
+}

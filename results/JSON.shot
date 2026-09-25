@@ -1,0 +1,25 @@
+{
+  "project": "ai-learn-12-multimodal-clip-scratch",
+  "seed": 42,
+  "config": {
+    "embed_dim": 32,
+    "tau": 0.1,
+    "epochs": 40,
+    "batch": 64,
+    "lr": 0.003,
+    "n_train": 3000
+  },
+  "key_metrics": {
+    "final_infonce_loss": 0.46227,
+    "i2t_R@1_concept": 0.665,
+    "t2i_R@1_concept": 0.71,
+    "i2t_R@5_concept": 0.89,
+    "random_R@1_concept": 0.04,
+    "i2t_R@5_instance": 0.375,
+    "random_R@5_instance": 0.015,
+    "zero_shot_shape_acc_ensemble": 0.665,
+    "zero_shot_color_acc_ensemble": 0.885,
+    "heldout_zero_shot_shape_acc": 0.75
+  },
+  "runtime_sec": 1.305
+}
